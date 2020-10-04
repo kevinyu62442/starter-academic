@@ -63,10 +63,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+user_groups:
+ - Researchers
+ - Visitors
+ ---
 
 I am a fourth-year undergraduate at School of Physics, Peking University. Currently, I'm working on my thesis as an undergraduate research assistant at [Tanglab](http://cqb.pku.edu.cn/tanglab/), which is part of the interdisciplinary institute [Center for Quantitative Biology, Peking University](http://cqb.pku.edu.cn/index.php?lang=en).
 
