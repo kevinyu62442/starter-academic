@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
 interests:
 - Biophysics
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: BSc in Physics
-    institution: Massachusetts Institute of Technology
+    institution: Peking University
     year: 2017-2021 (expected)
 
 # Social/Academic Networking
@@ -45,7 +45,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Pv61W_UAAAAJ
+  link: 'https://scholar.google.com/citations?user=Pv61W_UAAAAJ'
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -66,8 +66,10 @@ highlight_name: false
 user_groups:
  - Researchers
  - Visitors
- ---
+---
 
-I am a fourth-year undergraduate at School of Physics, Peking University. Currently, I'm working on my thesis as an undergraduate research assistant at [Tanglab](http://cqb.pku.edu.cn/tanglab/), which is part of the interdisciplinary institute [Center for Quantitative Biology, Peking University](http://cqb.pku.edu.cn/index.php?lang=en).
+I am a fourth-year undergraduate at School of Physics, Peking University. Currently, I'm an undergraduate research assistant at [Tanglab](http://cqb.pku.edu.cn/tanglab/), which is part of the interdisciplinary initiative [Center for Quantitative Biology, Peking University](http://cqb.pku.edu.cn/index.php?lang=en).
 
-I'm broadly interested in research that utilizes the tools and methodology of statistical physics to solve mysteries in living systems. 
+I'm broadly interested in research that utilizes the tools and methodology of statistical physics to solve mysteries in living systems. My research ranges from purely theoretical problems in nonequilibrium statistical mechanics to close collaboration with experimentalists in order to address specific biology questions.
+
+I'll be applying for PhD positions this fall. 

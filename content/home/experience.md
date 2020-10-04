@@ -18,19 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Summer Research Intern"
+  company = "Department of Molecular Biophysics and Biochemistry, Yale University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Connecticut (remotely done from Hangzhou, China)"
+  date_start = "2020-06-28"
+  date_end = "2020-08-31"
+  description = """Theoretical modeling of dendrite morphogenesis advised by [Dr. Jonathon Howard](https://howardlab.yale.edu/) and [Dr. Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai). """
 
 [[experience]]
   title = "Visiting Researcher"
@@ -39,6 +33,6 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2019-08-17"
   date_end = "2020-01-21"
-  description = """Full-time research on kinetic proofreading advised by [Prof. Oleg Igoshin](https://igoshin.rice.edu/)"""
+  description = """Theoretical study on the trade-offs in kinetic proofreading advised by [Dr. Oleg Igoshin](https://igoshin.rice.edu/) and [Dr. Anatoly Kolomeisky](http://python.rice.edu/~kolomeisky/tolya.htm)"""
 
 +++
