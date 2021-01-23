@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Center for Quantitative Biology, Peking University"
+  company_url = "http://cqb.pku.edu.cn/index.php?lang=en"
+  location = "Beijing, China"
+  date_start = "2020-09-10"
+  date_end = "2021-06-31"
+  description = """As my thesis work, I am investigating the flocking phenomenon with nonequilibrium statistical physics. I am jointly advised by [Dr. Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai) and [Dr. Chao Tang](http://cqb.pku.edu.cn/tanglab/) . """
+
 [[experience]]
   title = "Summer Research Intern"
   company = "Department of Molecular Biophysics and Biochemistry, Yale University"

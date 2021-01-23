@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:qiweiyu@pku.edu.cn'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/QiweiYu2
 - icon: google-scholar
   icon_pack: ai
   link: 'https://scholar.google.com/citations?user=Pv61W_UAAAAJ'
@@ -51,9 +51,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv_simplified_202101.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +68,11 @@ user_groups:
  - Visitors
 ---
 
-I am a fourth-year undergraduate at School of Physics, Peking University. Currently, I'm an undergraduate research assistant at [Tanglab](http://cqb.pku.edu.cn/tanglab/), which is part of the interdisciplinary initiative [Center for Quantitative Biology, Peking University](http://cqb.pku.edu.cn/index.php?lang=en).
+I am a fourth-year undergraduate at School of Physics, Peking University. Currently, I'm an undergraduate research assistant at [Tanglab](http://cqb.pku.edu.cn/tanglab/), which is part of the interdisciplinary initiative [Center for Quantitative Biology, Peking University](http://cqb.pku.edu.cn/index.php?lang=en). Before that, I was a visiting researcher in [Dr. Oleg Igoshin](https://igoshin.rice.edu/)'s research group at the [Center for Theoretical Biological Physics, Rice University](https://ctbp.rice.edu/).
 
-I'm broadly interested in research that utilizes the tools and methodology of statistical physics to unravel mysteries in living systems. My research ranges from purely theoretical problems in nonequilibrium statistical mechanics to close collaboration with experimentalists in order to address specific biology questions.
+I am broadly interested in research that utilizes the tools and methodology of statistical physics to unravel mysteries in living systems. My research ranges from purely theoretical problems in nonequilibrium statistical mechanics to close collaboration with experimentalists in order to address specific biology questions. The two recuring themes in my research are:
 
-I'll be applying for PhD positions this fall. 
++ Use statistical mechanics to understand how the microscopic interactions in biological systems lead to the macroscopic dynamics and properties, such as forming spatial patterns, generating collective motion, etc.
++ Quantify the energy dissipation in nonequilibrium systems to elucidate the relation between energy consumption and physiological function in biological systems.
+
+I am currently applying for PhD positions for fall 2021 entry.
