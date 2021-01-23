@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://cqb.pku.edu.cn/index.php?lang=en"
   location = "Beijing, China"
   date_start = "2020-09-10"
-  date_end = "2021-06-31"
+  date_end = "2021-06-30"
   description = """As my thesis work, I am investigating the flocking phenomenon with nonequilibrium statistical physics. I am jointly advised by [Dr. Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai) and [Dr. Chao Tang](http://cqb.pku.edu.cn/tanglab/) . """
 
 [[experience]]
