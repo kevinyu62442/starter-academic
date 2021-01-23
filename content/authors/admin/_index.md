@@ -51,9 +51,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv_simplified_202101.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv_simplified_202101.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +73,6 @@ I am a fourth-year undergraduate at School of Physics, Peking University. Curren
 I am broadly interested in research that utilizes the tools and methodology of statistical physics to unravel mysteries in living systems. My research ranges from purely theoretical problems in nonequilibrium statistical mechanics to close collaboration with experimentalists in order to address specific biology questions. The two recuring themes in my research are:
 
 + Use statistical mechanics to understand how the microscopic interactions in biological systems lead to the macroscopic dynamics and properties, such as forming spatial patterns, generating collective motion, etc.
-+ Quantify the energy dissipation in nonequilibrium systems to elucidate the relation between energy consumption and physiological function in biological systems.
++ Quantify the energy dissipation in nonequilibrium systems to elucidate the relation between energy expenditure and physiological function in biological systems.
 
 I am currently applying for PhD positions for fall 2021 entry.
