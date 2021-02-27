@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scaling of energy dissipation in nonequilibrium reaction networks"
+title: "Inverse power law scaling of energy dissipation rate in nonequilibrium reaction networks"
 authors: [Qiwei Yu, Dongliang Zhang, and Yuhai Tu]
-date: "2021-01-11T20:00:00+08:00"
+date: "2021-02-23T20:00:00+08:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://journals.aps.org/prl/accepted/6f07cYa2Had1457a672e87a8b6973728c58619847
+url_pdf: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.080601
 url_code:
 url_dataset:
 url_poster:
