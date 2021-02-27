@@ -39,11 +39,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:qiweiyu@pku.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:qiweiyu@pku.edu.cn
 - icon: twitter
   icon_pack: fab
-  link: "https://twitter.com/QiweiYu2"
-#- icon: google-scholar
+  link: https://twitter.com/QiweiYu2
+# - icon: google-scholar
 #  icon_pack: ai
 #  link: "https://scholar.google.com/citations?user=Pv61W_UAAAAJ"
 # - icon: github
@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
    icon_pack: ai
-   link: "files/CV2_simplified_202102.pdf"
+   link: files/CV2_simplified_202102.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
