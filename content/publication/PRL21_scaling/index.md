@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physical Review Letters"
-publication_short: "Phys.Rev.Lett. (accepted)"
+publication_short: "Phys.Rev.Lett."
 
 #abstract: "The energy dissipation rate in a nonequilibirum reaction system can be determined by the reaction rates in the underlying reaction network. By developing a coarse-graining process in state space and a corresponding renormalization procedure for reaction rates, we find that energy dissipation rate has an inverse power-law dependence on the number of microscopic states in a coarse-grained state. The dissipation scaling law requires self-similarity of the underlying network, and the scaling exponent depends on the network structure and the flux correlation. Existence of the inverse dissipation scaling law is shown in realistic biochemical systems such as biochemical oscillators and microtubule-kinesin active flow systems."
 
